@@ -48,6 +48,8 @@ span {
     .name {
         height: 500px; /* Reduce height for smaller screens */
         background-position: center -20px; /* Adjust background position */
+        height: 50%;
+
     }
 
     span {
@@ -63,6 +65,9 @@ span {
 @media (max-width: 480px) {
     .name {
         height: 400px; /* Further reduce height for very small screens */
+        height: 100vh;
+
+
     }
 
     span {
