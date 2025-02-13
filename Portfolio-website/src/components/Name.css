@@ -40,14 +40,13 @@ span {
     align-items: center ;
     justify-content: center ;
     margin: 10px;
-
     height: 90%; /* Ensures the div takes the full height of the container */
 }
 
 @media (max-width: 768px) {
     .name {
         height: 500px; /* Reduce height for smaller screens */
-        background-position: center -20px; /* Adjust background position */
+        background-position: center ; /* Adjust background position */
     }
 
     span {

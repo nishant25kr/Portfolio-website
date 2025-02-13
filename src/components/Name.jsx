@@ -4,8 +4,8 @@ import { useEffect,useState } from 'react';
 export default function Name() {
   
   return (
-    <div className="name">
-      <div className='name_div'>
+    <div className="row name">
+      <div className=' col-md-12 name_div'>
         <span> I'm NISHANT</span>
       </div>
       

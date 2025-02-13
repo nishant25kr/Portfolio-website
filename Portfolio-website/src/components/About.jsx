@@ -23,7 +23,7 @@ export default function About() {
                     </div>
                 </div>
                 <div className="col-md-6">
-                    <h2 className="text-4xl font-bold text-center "></h2>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti animi aut excepturi minima? Sequi tenetur distinctio quam dignissimos vero commodi delectus dolor vel eligendi nihil, voluptas nesciunt nostrum esse ducimus iste alias placeat? Enim ipsam quia quos. Vitae, quidem molestias? Officiis a rerum sint voluptatibus vel asperiores laboriosam iure enim ducimus corporis cum, itaque, quo nobis odio at adipisci neque, minima blanditiis sed quisquam voluptas aliquam? Tenetur quas, iste vero maiores odio molestiae voluptates temporibus quod! Ipsa nisi, et repudiandae odio illum itaque! Nulla exercitationem saepe architecto nostrum esse aliquid accusamus animi nemo ad non suscipit, ex expedita eius perspiciatis.                    
 
                 </div>
 
