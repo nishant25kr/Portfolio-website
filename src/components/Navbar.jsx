@@ -31,7 +31,7 @@ export default function Navbar() {
                         </li>
                         <li className="nav-item">
                             <a className="nav-link active text-light" rel="noopener noreferrer" aria-current="page" onClick={(e) => {
-                                e.preventDefault(); // Prevents navigation
+                                e.preventDefault(); 
                                 copyEmail();
                             }} href='/'>  📧 Email</a>
                         </li>
